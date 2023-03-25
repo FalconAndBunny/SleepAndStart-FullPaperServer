@@ -1,0 +1,42 @@
+{
+  "name": "mcsleepingserverstarter",
+  "version": "1.16.1",
+  "description": "Sleeps until someone connects",
+  "main": "sleepingServerStarter.js",
+  "scripts": {
+    "start": "node sleepingServerStarter.js",
+    "build": "npm-run-all build:*",
+    "build:win": "pkg sleepingServerStarter.js --target win --output bin/sleepingServerStarter.exe",
+    "build:linux": "pkg sleepingServerStarter.js --target linux --output bin/sleepingServerStarter.run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "connect": "^3.7.0",
+    "dateformat": "^3.0.3",
+    "js-yaml": "^3.13.1",
+    "minecraft-protocol": "https://github.com/PrismarineJS/node-minecraft-protocol.git",
+    "npm-run-all": "^4.1.5",
+    "serve-static": "^1.14.1",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.8"
+  },
+  "author": "Vincss",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincss/mcsleepingserverstarter.git"
+  },
+  "keywords": [
+    "maintenance",
+    "minecraft",
+    "nodejs",
+    "emptyserverstopper",
+    "sleepingserver"
+  ],
+  "bugs": {
+    "url": "https://github.com/vincss/mcsleepingserverstarter/issues"
+  },
+  "homepage": "https://github.com/vincss/mcsleepingserverstarter#readme"
+}

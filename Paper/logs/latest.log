@@ -1,0 +1,123 @@
+[17:30:49] [ServerMain/INFO]: Building unoptimized datafixer
+[17:30:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:30:53] [ServerMain/INFO]: Loaded 7 recipes
+[17:30:54] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[17:30:54] [Server thread/INFO]: Loading properties
+[17:30:54] [Server thread/INFO]: This server is running Paper version git-Paper-375 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 7a64b85)
+[17:30:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:30:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:30:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[17:30:55] [Server thread/INFO]: Default game type: SURVIVAL
+[17:30:55] [Server thread/INFO]: Generating keypair
+[17:30:55] [Server thread/INFO]: Starting Minecraft server on *:25567
+[17:30:55] [Server thread/INFO]: Using default channel type
+[17:30:56] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[17:30:56] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[17:30:57] [Server thread/INFO]: [dynmap] Loading dynmap v3.5-beta-3-866
+[17:30:57] [Server thread/INFO]: [dynmap] version=git-Paper-375 (MC: 1.19.3)
+[17:30:57] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:30:57] [Server thread/INFO]: [EmptyServerStopper] Loading EmptyServerStopper v1.0.1
+[17:30:57] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.5.1
+[17:30:57] [Server thread/INFO]: [ViaVersion] ViaVersion 4.5.1 is now loaded, injecting!
+[17:30:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[17:30:58] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[17:30:58] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[17:30:58] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[17:30:58] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[17:30:58] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[17:30:58] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[17:30:58] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[17:30:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:30:58] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[17:30:58] [Via-Mappingloader-8/INFO]: [ViaVersion] Loading 1.19 -> 1.19.3 mappings...
+[17:30:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:30:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:30:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:30:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:30:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:30:58] [Server thread/INFO]: Preparing level "world"
+[17:30:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:31:00] [Server thread/INFO]: Time elapsed: 189 ms
+[17:31:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:31:00] [Server thread/INFO]: Time elapsed: 80 ms
+[17:31:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:31:00] [Server thread/INFO]: Time elapsed: 69 ms
+[17:31:00] [Server thread/INFO]: [dynmap] Enabling dynmap v3.5-beta-3-866
+[17:31:01] [Server thread/INFO]: [dynmap] Added 19 custom biome mappings
+[17:31:01] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[17:31:01] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[17:31:01] [Server thread/INFO]: [dynmap] Found cwebp at /opt/homebrew/bin/cwebp and dwebp at /opt/homebrew/bin/dwebp: webp format enabled
+[17:31:01] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:31:11] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[17:31:11] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[17:31:11] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[17:31:11] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[17:31:12] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[17:31:12] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[17:31:12] [Server thread/INFO]: [dynmap] version 3.5-beta-3-866 is enabled - core version 3.5-beta-3-866
+[17:31:12] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[17:31:12] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[17:31:12] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[17:31:12] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[17:31:12] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[17:31:12] [Server thread/INFO]: [dynmap] Loaded 6632 pending tile renders for world 'world'
+[17:31:12] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[17:31:12] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[17:31:12] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[17:31:12] [Server thread/INFO]: [dynmap] Enabled
+[17:31:12] [Server thread/INFO]: [EmptyServerStopper] Enabling EmptyServerStopper v1.0.1
+[17:31:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.5.1
+[17:31:13] [Server thread/INFO]: Running delayed init tasks
+[17:31:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19.3 (761)
+[17:31:13] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[17:31:13] [Server thread/WARN]: [ViaVersion] Please remember that ViaVersion only adds support for versions newer than the server version.
+[17:31:13] [Server thread/WARN]: [ViaVersion] If you need support for older versions you may need to use one or more ViaVersion addons too.
+[17:31:13] [Server thread/WARN]: [ViaVersion] In that case please read the ViaVersion resource page carefully or use https://jo0001.github.io/ViaSetup
+[17:31:13] [Server thread/WARN]: [ViaVersion] and if you're still unsure, feel free to join our Discord-Server for further assistance.
+[17:31:13] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[17:31:13] [Server thread/INFO]: Done (18.989s)! For help, type "help"
+[17:31:13] [Server thread/INFO]: Timings Reset
+[17:31:14] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[17:31:14] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.6.2, you're on: 4.5.1
+[17:32:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 200 tiles rendered (699.14 msec/tile, 445.66 msec per render)
+[17:32:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 300 tiles rendered (590.07 msec/tile, 396.60 msec per render)
+[17:32:52] [User Authenticator #0/INFO]: UUID of player BunnyGamez2000 is 1b7c2d29-7e0b-34d4-942d-26c7581a6d0e
+[17:32:52] [Server thread/INFO]: BunnyGamez2000 joined the game
+[17:32:52] [Server thread/INFO]: BunnyGamez2000[/127.0.0.1:51900] logged in with entity id 175 at ([world]-942.6191923194449, 93.0, 3254.454789211054)
+[17:33:01] [Server thread/INFO]: Stopping the server
+[17:33:01] [Server thread/INFO]: Stopping server
+[17:33:01] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.5.1
+[17:33:01] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[17:33:01] [Server thread/INFO]: [EmptyServerStopper] Disabling EmptyServerStopper v1.0.1
+[17:33:01] [Server thread/INFO]: [dynmap] Disabling dynmap v3.5-beta-3-866
+[17:33:01] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[17:33:01] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[17:33:02] [Server thread/INFO]: [dynmap] Saved 6100 pending tile renders in world 'world'
+[17:33:02] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
+[17:33:03] [Server thread/INFO]: [dynmap] Disabled
+[17:33:03] [Server thread/INFO]: Saving players
+[17:33:03] [Server thread/INFO]: BunnyGamez2000 lost connection: Server closed
+[17:33:03] [Server thread/INFO]: BunnyGamez2000 left the game
+[17:33:03] [Server thread/INFO]: Saving worlds
+[17:33:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:33:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:33:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:33:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:33:06] [Server thread/INFO]: [ChunkHolderManager] Saved 1632 block chunks, 614 entity chunks, 0 poi chunks in world 'world' in 2.99s
+[17:33:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:33:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:33:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:33:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:33:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:33:08] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 1.47s
+[17:33:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:33:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:33:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:33:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:33:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:33:09] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.51s
+[17:33:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:33:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:33:09] [Server thread/INFO]: Flushing Chunk IO
+[17:33:09] [Server thread/INFO]: Closing Thread Pool
+[17:33:09] [Server thread/INFO]: Closing Server
