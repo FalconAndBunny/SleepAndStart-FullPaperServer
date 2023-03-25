@@ -14,15 +14,18 @@ Supported Versions: 1.19.* (All 1.19 versions)
 ``` bash
 # Download git (Check for git with "which git")
 sudo apt-get install git
-
+```
+``` bash
 # In the directory of your home/any folder which will contain the server 
 git clone https://github.com/FalconAndBunny/SleepAndStart-FullPaperServer.git
 
 mv SleepAndStart-FullPaperServer/* ./
-
+```
+``` bash
 # Optional command
 rm README.md
-
+```
+``` bash
 # Next:
 cd Paper
 npm install
