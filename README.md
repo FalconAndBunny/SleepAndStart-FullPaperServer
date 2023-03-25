@@ -46,3 +46,28 @@ npm start
 nano sleepingSettings.yml
 
 ```
+
+
+## Create a quick start command!
+
+``` bash
+touch start-server.sh
+chmod +x start-server.sh
+nano start-server.sh
+```
+
+### In the nano write:
+```bash
+# Replace the/path/to/your/server with the directory
+cd the/path/to/your/server/Paper
+exec npm start
+```
+
+### ^C to exit and y to save. Then:
+``` bash
+echo $PATH
+# This will give all the "Paths" that allow for quick access to a command
+# Replace a/path/name/ with one of the $PATH constants
+sudo mv start-server.sh a/path/name/
+
+```
