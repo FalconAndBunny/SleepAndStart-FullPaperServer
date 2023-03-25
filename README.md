@@ -20,6 +20,7 @@ sudo apt-get install git
 git clone https://github.com/FalconAndBunny/SleepAndStart-FullPaperServer.git
 
 mv SleepAndStart-FullPaperServer/* ./
+rm SleepAndStart-FullPaperServer
 ```
 ``` bash
 # Optional command
