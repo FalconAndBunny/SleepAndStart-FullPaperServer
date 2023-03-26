@@ -8,15 +8,14 @@ Supported Versions: 1.19.* (All 1.19 versions)
 # How to download on a (linux) ubuntu server
 
 ### First download [NodeJS](https://github.com/nodesource/distributions#debinstall)
-### And Java
+
+### Then run this code into the terminal
 ``` bash
+# Download Java
 java -version
 # Download any Jdk from Jdk 17 - Jdk 20
 
 ```
-
-### Then run this code into the terminal
-
 ``` bash
 # Download git (Check for git with "which git")
 sudo apt-get install git
