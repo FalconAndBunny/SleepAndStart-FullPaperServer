@@ -26,7 +26,6 @@ git clone https://github.com/FalconAndBunny/SleepAndStart-FullPaperServer.git
 
 mv SleepAndStart-FullPaperServer/* ./
 rm -rf SleepAndStart-FullPaperServer
-rm -rf .git
 ```
 ``` bash
 # Optional command
